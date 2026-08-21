@@ -1,0 +1,25 @@
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/next-env.d.ts
+frontend/out/
+
+# Python
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.venv/
+backend/venv/
+backend/*.egg-info/
+backend/.pytest_cache/
+
+# Env
+.env
+backend/.env
+frontend/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local tooling
+.claude/
